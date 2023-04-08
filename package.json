@@ -1,7 +1,8 @@
 {
   "name": "example-monorepo",
   "dependencies": {
-    "astro": "^2.2.1"
+    "astro": "^2.2.1",
+    "vue": "^3.2.47"
   },
   "devDependencies": {
     "@astrojs/vue": "^2.1.1"
